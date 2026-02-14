@@ -1,0 +1,30 @@
+name: AIS Play Auto Update
+on:
+  schedule:
+    # เที่ยงคืนไทย (00:00) คือ 17:00 UTC
+    - cron: '0 17 * * *'
+  workflow_dispatch: # ปุ่มกดรันเอง
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Tools
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps
+      - name: Run Update
+        run: python main.py
+      - name: Save Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add MOM-TV.w3u
+          git commit -m "Auto update $(date)" || exit 0
+          git push
