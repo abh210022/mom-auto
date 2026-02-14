@@ -1,4 +1,4 @@
-name: AIS Play Auto Update
+name: MOM Auto Update
 on:
   schedule:
     # เที่ยงคืนไทย (00:00) คือ 17:00 UTC
