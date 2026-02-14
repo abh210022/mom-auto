@@ -6,7 +6,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 
 # --- ตั้งค่า Path สำหรับ GitHub (ใช้ชื่อไฟล์ตรงๆ) ---
-W3U_FILE = "MOM-TV.w3u"
+W3U_FILE = "MOM.w3u"
 TARGET_URL = "https://aisplay.ais.co.th/portal/live/?vid=59592e08bf6aee4e3ecce051"
 
 async def get_new_params():
@@ -74,4 +74,5 @@ async def run():
         update_w3u(params)
 
 if __name__ == "__main__":
+
     asyncio.run(run())
