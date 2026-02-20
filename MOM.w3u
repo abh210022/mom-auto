@@ -381,22 +381,22 @@
         {
             "name": "BEIN 1",
             "image": "https://ball67.com/assets/channels-logo/bein1.png",
-            "url": "https://ball67.com/channels/bein1/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/bein1.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "BEIN 2",
             "image": "https://ball67.com/assets/channels-logo/bein2.png",
-            "url": "https://ball67.com/channels/bein2/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/bein2.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "BEIN 3",
             "image": "https://ball67.com/assets/channels-logo/bein3.png",
-            "url": "https://ball67.com/channels/bein3/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/bein3.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -451,15 +451,15 @@
         {
             "name": "SPOTV 1",
             "image": "https://ball67.com/assets/channels-logo/spotv1.png",
-            "url": "https://ball67.com/channels/spotv1/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/spotv.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "SPOTV 2",
             "image": "https://ball67.com/assets/channels-logo/spotv2.png",
-            "url": "https://ball67.com/channels/spotv2/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/spotv2.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
