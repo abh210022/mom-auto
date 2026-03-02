@@ -332,6 +332,13 @@
         {
             "name": "True Sports 1",
             "image": "https://ball67.com/assets/channels-logo/truesport1.png",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 1",
+            "image": "https://ball67.com/assets/channels-logo/truesport1.png",
             "url": "https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8",
             "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
@@ -339,7 +346,21 @@
         {
             "name": "True Sports 2",
             "image": "https://ball67.com/assets/channels-logo/truesport2.png",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 2",
+            "image": "https://ball67.com/assets/channels-logo/truesport2.png",
             "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts2.m3u8",
+            "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 3",
+            "image": "https://ball67.com/assets/channels-logo/truesport3.png",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8",
             "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -353,8 +374,22 @@
         {
             "name": "True Sports 4",
             "image": "https://ball67.com/assets/channels-logo/truesport4.png",
+            "url": "https://www.88-hd.com/?r=tv_view&id=35",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 4",
+            "image": "https://ball67.com/assets/channels-logo/truesport4.png",
             "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts4.m3u8",
             "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 5",
+            "image": "https://ball67.com/assets/channels-logo/truesport5.png",
+            "url": "https://ball67.com/channels/truesports5/",
+            "referer": "https://ball67.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -367,8 +402,15 @@
         {
             "name": "True Sports 7",
             "image": "https://ball67.com/assets/channels-logo/truesport7.png",
-            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts7.m3u8",
-            "referer": "https://github.com/",
+            "url": "https://ball67.com/channels/truesports7/",
+            "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "True Sports 7",
+            "image": "https://ball67.com/assets/channels-logo/truesport7.png",
+            "url": "https://www.88-hd.com/?r=tv_view&id=38",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -472,7 +514,7 @@
         {
             "name": "MONOMAX 1",
             "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
-            "url": "https://raw.githubusercontent.com/udzaa2238/now-sport/refs/heads/main/fastopen-monomax-1.m3u8",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
             "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
@@ -486,7 +528,7 @@
         {
             "name": "MONOMAX 2",
             "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
-            "url": "https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/fastopen-monomax-2.m3u8",
+            "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8",
             "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
